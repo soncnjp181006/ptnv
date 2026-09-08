@@ -32,6 +32,8 @@ Nguyên tắc bảo vệ: Mọi task hoàn thành, thất bại hoặc vi phạm
 | TSK-02 | REQ-01 | Thiết lập Ma trận quyền hạn | L1 | `.agent-system/memory/authority/` | Đã xong |
 | TSK-03 | REQ-01 | Thiết lập Quy chuẩn ngữ cảnh & Session | L1 | `.agent-system/memory/context/`, `.agent-system/session/` | Đã xong |
 | TSK-04 | REQ-01 | Thiết lập Bộ nhớ thực thi & History | L1 | `.agent-system/memory/memory/`, `.agent-system/history/` | Đang thực thi |
+| TSK-05 | REQ-02 | Chạy A1 Discovery + tạo Plan + Decision Log | L1 | `specs/01-ung-dung-hoc-tap-ai/` | Đang thực thi |
+| TSK-06 | REQ-02 | Chạy A2 Business Analysis cho 6 nghiệp vụ con | L1 | `specs/01-ung-dung-hoc-tap-ai/03-phan-tich-sau/` | Chờ |
 
 ---
 
@@ -49,7 +51,7 @@ Nguyên tắc bảo vệ: Mọi task hoàn thành, thất bại hoặc vi phạm
 
 | Mã Task | Hiện tượng Lỗi | Nguyên nhân Gốc (Root Cause) | Biện pháp Khắc phục | Bài học Đúc kết |
 | :--- | :--- | :--- | :--- | :--- |
-| *Chưa ghi nhận task hoàn thành sai* | - | - | - | - |
+| REQ-02 | 2026-09-08 | Phân tích nghiệp vụ ứng dụng học tập AI (Toán/Lý/Hóa/Sinh + community + pricing) | Baseline nghiệp vụ có thể kiểm chứng cho Phase A | Đang thực thi |
 
 ---
 
