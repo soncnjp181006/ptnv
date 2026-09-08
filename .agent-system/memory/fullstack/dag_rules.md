@@ -204,17 +204,3 @@ Mọi biến động trạng thái trên đồ thị DAG đều được ghi nh�
    Mọi chuyển đổi trạng thái đều phải lưu lại lịch sử `transitions` gồm `from_state`, `to_state`, `timestamp`, `triggered_by` và `evidence_path`.
 2. **Khóa Đơn Tiến Trình (Single Mutex Gate)**:
    Không cho phép hai tiến trình ghi đè đồng thời vào `lifecycle_state.json`.
-
----
-
-## 📚 Tài Liệu Liên Quan (Fullstack SDLC Suite)
-
-- [Kiến Trúc Tổng Quan (Architecture)](../../../../docs/fullstack/architecture.md)
-- [Cấu Trúc Cài Đặt & Thư Mục (Installation & Storage)](../../../../docs/fullstack/installation-and-storage.md)
-- [Đặc Tả Đồ Thị DAG 65 Chặng (DAG Specification)](../../../../docs/fullstack/dag-specification.md)
-- [Quy Tắc Đồ Thị DAG Toán Học (DAG Rules)](../../../../docs/fullstack/dag-rules.md)
-- [Đặc Tả Vòng Đời 65 Chặng (Lifecycle Specification)](../../../../docs/fullstack/lifecycle.md)
-- [Danh Mục 9 Master Skills & 65 Modules (Skills Catalog)](../../../../docs/fullstack/skills-catalog.md)
-- [Hướng Dẫn Điều Phối Đa Nền Tảng (Host Routing Guide)](../../../../docs/fullstack/host-routing-guide.md)
-- [Quản Trị Phiên Bản & Nâng/Hạ Version (Version Management)](../../../../docs/fullstack/version-management.md)
-- [Kiến Trúc Framework Chung (Framework Architecture)](../../../../docs/architecture.md)
