@@ -18,10 +18,10 @@
     ".opencode/skills/agent-recovery/SKILL.md": "79b3618d804d62b32beb919a44d4b14a48651586ac6cda6070456c0a656bd270",
     ".opencode/skills/agent-update/SKILL.md": "839bb5fefb850e50c076e73e64ed0230a35ee43eb4eb6e4ace5aef09ce105286",
     ".opencode/skills/agent-workflows/SKILL.md": "d5343607dd5bd1786246092d9ffbecf465e73b872cdc06e0131f5decca584d40",
-    ".opencode/command/agent-fullstack-discovery.md": "fc12c3910d1f804b061683a2c26a500a64ab51b1543200842beb5f6aa3ae8a86",
+    ".opencode/command/agent-fullstack-discovery.md": "141ebb59a39a407d7213b99b80147de542f43b28f0eb9bd7527396acd6a94b89",
     ".opencode/skills/agent-fullstack-discovery/AUDIT-v5-to-v6.md": "ca7f02d60fbceb8816f65d64b325a8c8e2add5019b7db5857442b38219c33aa8",
-    ".opencode/skills/agent-fullstack-discovery/README.md": "c9fc64df5ecbf8122fe5db9f63c8f62be105e2922a784c3d8c204c83699d06e0",
-    ".opencode/skills/agent-fullstack-discovery/SKILL.md": "fc12c3910d1f804b061683a2c26a500a64ab51b1543200842beb5f6aa3ae8a86",
+    ".opencode/skills/agent-fullstack-discovery/README.md": "c1b46a5d74c70e8db9050fe81a23feef45d88984f452ecbb7afc546619d6a650",
+    ".opencode/skills/agent-fullstack-discovery/SKILL.md": "141ebb59a39a407d7213b99b80147de542f43b28f0eb9bd7527396acd6a94b89",
     ".opencode/skills/agent-fullstack-discovery/domain-playbooks/README.md": "091d1a78c65a55f099684de8c94b3e1b304be7e2a2bda9b073c2db1722903186",
     ".opencode/skills/agent-fullstack-discovery/engines/collaboration-engine.md": "f0e0e984188c50166e956cdfcf529b392cb351991eb909a38fa38be92b3dd8e2",
     ".opencode/skills/agent-fullstack-discovery/engines/consistency-engine.md": "3f39a3954b7ec7368e069e68b8529447629a71a82b2e88792a1350524f459b26",
@@ -67,7 +67,7 @@
     ".opencode/skills/agent-fullstack-discovery/templates/question-log.md": "653d292d5de126e457b3bdf2ee7d131008793d187d200be58275c7f28fa443ca",
     ".opencode/skills/agent-fullstack-discovery/templates/sample-project-structure.md": "acb1549ee99b536d70cf4a128f56353ee205d13b672496fe110ce45de5184ae6"
   },
-  "installed_at": "2026-09-08T09:16:26.431678+00:00",
+  "installed_at": "2026-09-08T09:18:40.654365+00:00",
   "integration": "opencode",
   "version": "0.1.0"
 }

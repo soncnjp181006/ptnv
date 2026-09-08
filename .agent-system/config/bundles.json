@@ -42,8 +42,8 @@
       "version": "0.1.0",
       "description": "65-Stage End-to-End Software Engineering & Architecture Lifecycle Bundle with Human-AI Co-Discovery and Visual Flowcharts",
       "installed_at": "2026-09-08T09:16:26.444396+00:00",
-      "updated_at": "2026-09-08T09:16:26.444396+00:00",
-      "previous_version": null,
+      "updated_at": "2026-09-08T09:18:40.660189+00:00",
+      "previous_version": "0.1.0",
       "slashes": [
         "agent-fullstack-discovery",
         "agent-fullstack-flow"
