@@ -56,7 +56,7 @@
     ".opencode/skills/agent-fullstack-discovery/templates/phase-review.md": "b66782b727e481927d038a98b4af0963fed23dc3827d870b67d76a6c55f0019f",
     ".opencode/skills/agent-fullstack-discovery/templates/plan-output.md": "90aa364fba9c99b9cc8e74a965627d2a7e0bb66168a647798d3ad36e16cf070f"
   },
-  "installed_at": "2026-09-08T09:29:55.070720+00:00",
+  "installed_at": "2026-09-08T09:53:31.570290+00:00",
   "integration": "opencode",
   "version": "0.1.0"
 }

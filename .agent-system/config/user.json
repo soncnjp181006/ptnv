@@ -1,6 +1,6 @@
 {
   "preferences": {
-    "default_integration": "opencode",
+    "default_integration": "kilocode",
     "theme": "dark",
     "auto_update": false
   }
