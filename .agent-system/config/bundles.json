@@ -4,7 +4,9 @@
       "name": "Agent Core Governance",
       "version": "0.2.0",
       "description": "Foundation Core Governance System for AI Host Agents",
-      "updated_at": "2026-09-08T04:29:42.112733+00:00",
+      "installed_at": "2026-09-08T05:00:39.565674+00:00",
+      "updated_at": "2026-09-08T05:00:39.565674+00:00",
+      "previous_version": null,
       "slashes": [
         "agent-constitution",
         "agent-authority",
@@ -26,15 +28,22 @@
         "agent-recovery",
         "agent-evolution",
         "agent-update"
+      ],
+      "version_history": [
+        {
+          "action": "install",
+          "version": "0.2.0",
+          "timestamp": "2026-09-08T05:00:39.565674+00:00"
+        }
       ]
     },
     "fullstack": {
       "name": "Fullstack SDLC Lifecycle Engine",
       "version": "0.1.0",
       "description": "65-Stage End-to-End Software Engineering & Architecture Lifecycle Bundle with Human-AI Co-Discovery and Visual Flowcharts",
-      "installed_at": "2026-09-08T04:26:09.323588+00:00",
-      "updated_at": "2026-09-08T04:32:10.226157+00:00",
-      "previous_version": "0.1.0",
+      "installed_at": "2026-09-08T05:00:43.241016+00:00",
+      "updated_at": "2026-09-08T05:00:43.241016+00:00",
+      "previous_version": null,
       "slashes": [
         "agent-fullstack-discovery",
         "agent-fullstack-flow"
@@ -46,7 +55,7 @@
         {
           "action": "install",
           "version": "0.1.0",
-          "timestamp": "2026-09-08T04:26:09.323588+00:00"
+          "timestamp": "2026-09-08T05:00:43.241016+00:00"
         }
       ]
     }
