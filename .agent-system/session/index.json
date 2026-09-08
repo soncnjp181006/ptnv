@@ -1,0 +1,6 @@
+{
+  "version": "0.2.0",
+  "description": "Session context compression index",
+  "active_session": null,
+  "sessions": []
+}

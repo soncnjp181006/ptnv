@@ -1,0 +1,80 @@
+{
+  "version": "0.1.0",
+  "project_name": "Fullstack Engineering Lifecycle",
+  "current_phase": "A",
+  "current_stage": "A1",
+  "phase_a_signoff": false,
+  "last_updated": "2026-09-07T18:00:00Z",
+  "stages": {
+    "A1": {
+      "name": "Requirement & Discovery",
+      "phase": "A",
+      "status": "in_progress",
+      "artifact": "specs/A1-discovery.md",
+      "flowchart_rendered": false,
+      "user_signoff": false,
+      "completed_at": null
+    },
+    "A2": {
+      "name": "Business Analysis & Detailed Flowchart",
+      "phase": "A",
+      "status": "pending",
+      "artifact": "specs/A2-business-analysis.md",
+      "flowchart_rendered": false,
+      "user_signoff": false,
+      "completed_at": null
+    },
+    "A3": {
+      "name": "Feasibility Study",
+      "phase": "A",
+      "status": "pending",
+      "artifact": "specs/A3-feasibility.md",
+      "flowchart_rendered": false,
+      "user_signoff": false,
+      "completed_at": null
+    },
+    "A4": {
+      "name": "Scope, Goals & KPIs",
+      "phase": "A",
+      "status": "pending",
+      "artifact": "specs/A4-scope-goals.md",
+      "flowchart_rendered": false,
+      "user_signoff": false,
+      "completed_at": null
+    },
+    "A5": {
+      "name": "Risk, Effort & Roadmap",
+      "phase": "A",
+      "status": "pending",
+      "artifact": "specs/A5-risk-roadmap.md",
+      "flowchart_rendered": false,
+      "user_signoff": false,
+      "completed_at": null
+    },
+    "A6": {
+      "name": "Backlog, User Stories & Tasks",
+      "phase": "A",
+      "status": "pending",
+      "artifact": "specs/A6-backlog.md",
+      "flowchart_rendered": false,
+      "user_signoff": false,
+      "completed_at": null
+    },
+    "B1": { "name": "UX / User Flow", "phase": "B", "status": "blocked", "artifact": "specs/design/B1-user-flow.md" },
+    "B2": { "name": "Wireframe / UI Design", "phase": "B", "status": "blocked", "artifact": "specs/design/B2-wireframe.md" },
+    "B3": { "name": "System Architecture", "phase": "B", "status": "blocked", "artifact": "specs/arch/B3-system-arch.md" },
+    "B4": { "name": "Domain / Module Design", "phase": "B", "status": "blocked", "artifact": "specs/arch/B4-domain-modules.md" },
+    "B5": { "name": "Data / ERD / DB Design", "phase": "B", "status": "blocked", "artifact": "specs/data/B5-erd-db.md" },
+    "B6": { "name": "API Contract Design", "phase": "B", "status": "blocked", "artifact": "specs/api/B6-api-contract.md" },
+    "B7": { "name": "Security Requirements", "phase": "B", "status": "blocked", "artifact": "specs/security/B7-security-req.md" },
+    "B8": { "name": "Testing Strategy & Plan", "phase": "B", "status": "blocked", "artifact": "specs/qa/B8-test-strategy.md" }
+  },
+  "history": [
+    {
+      "action": "init",
+      "stage": "A1",
+      "timestamp": "2026-09-07T18:00:00Z",
+      "note": "Khởi tạo vòng đời Phân Hệ A (Discovery & Planning) với chặng A1 in_progress"
+    }
+  ]
+}

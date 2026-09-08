@@ -1,0 +1,16 @@
+{
+  "domain": "backend",
+  "version": "0.2.0",
+  "description": "Kho tri thức kinh nghiệm modular cho lĩnh vực backend",
+  "next_seq": 2,
+  "lessons": [
+    {
+      "id": "EXP-BACKEND-01",
+      "seq": 1,
+      "title": "Foundations and Core Invariants for Backend",
+      "file": "01-foundations-and-invariants.md",
+      "tags": ["foundations", "invariants", "best-practices"],
+      "created_at": "2026-09-06T00:00:00Z"
+    }
+  ]
+}

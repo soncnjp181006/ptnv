@@ -1,0 +1,9 @@
+{
+  "version": "0.2.0",
+  "description": "Task execution and memory ledger index",
+  "total_requests": 0,
+  "successful_tasks": 0,
+  "failed_tasks": 0,
+  "violations": 0,
+  "records": []
+}

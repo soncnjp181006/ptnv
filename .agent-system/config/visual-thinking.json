@@ -1,0 +1,58 @@
+{
+  "spatial_cognition": {
+    "grid": {
+      "columns": 12,
+      "gutter_px": 16,
+      "margin_px": 24
+    },
+    "isometric": {
+      "projection_angle_deg": 45,
+      "depth_planes": [
+        "canvas",
+        "surface",
+        "floating",
+        "overlay"
+      ]
+    },
+    "3d": {
+      "coordinate_system": "right-handed",
+      "camera_fov": 45,
+      "lighting": [
+        "ambient",
+        "directional",
+        "rim"
+      ]
+    }
+  },
+  "motion_physics": {
+    "spring": {
+      "stiffness": 300,
+      "damping": 20,
+      "mass": 1
+    },
+    "micro_interaction_duration_ms": 200,
+    "gpu_properties": [
+      "transform",
+      "opacity"
+    ],
+    "smooth_scroll": {
+      "engine": "lenis",
+      "sync_scroll_trigger": true
+    }
+  },
+  "anti_ai_ui": {
+    "zero_horizontal_overflow": true,
+    "concentric_radius": true,
+    "microstates_required": [
+      "default",
+      "hover",
+      "focus",
+      "active",
+      "disabled",
+      "loading"
+    ],
+    "forbidden_gradients": [
+      "#6366f1->#8b5cf6"
+    ]
+  }
+}

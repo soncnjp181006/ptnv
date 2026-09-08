@@ -1,0 +1,16 @@
+{
+  "domain": "2.5d-ui",
+  "version": "0.2.0",
+  "description": "Kho tri thức kinh nghiệm modular cho lĩnh vực 2.5d-ui",
+  "next_seq": 2,
+  "lessons": [
+    {
+      "id": "EXP-2_5D_UI-01",
+      "seq": 1,
+      "title": "Foundations and Core Invariants for 2.5d-Ui",
+      "file": "01-foundations-and-invariants.md",
+      "tags": ["foundations", "invariants", "best-practices"],
+      "created_at": "2026-09-06T00:00:00Z"
+    }
+  ]
+}

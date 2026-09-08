@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "registry": {
+    "active_extensions": [
+      "agent-core",
+      "fullstack"
+    ],
+    "last_scanned_at": "2026-09-08T03:08:17.250509+00:00"
+  }
+}
